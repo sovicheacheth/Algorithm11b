@@ -1,0 +1,10 @@
+Answer:
+A. When using brute force algorithm, it took quite a long time to find the fibonacci, so we need to use some from of dynamic programming to reuse the number of recursive calls.
+
+B. I have made some testing with below Strings:
+
+		String S1 = "UNITEDSTATEOFAMERICA";
+		String S2 = "USA";
+
+For brute force algorithm, the counter = 350
+For LCS algorithm, the counter = 64
